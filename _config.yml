@@ -1,5 +1,7 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title:Realtime-CineFollow-Gimbal
+description: IRIS is a high-performance, dual-axis cine-follow gimbal engineered to solve the "solo shooter" problem. By offloading complex tracking and stabilization tasks to an autonomous embedded system, IRIS allows creators to remain the focus of their story without needing a human camera operator.
+
+The project is built on the Raspberry Pi 5 platform, pushing the boundaries of real-time computer vision and motion control in a mobile form factor.
 theme: just-the-docs
 
 url: https://just-the-docs.github.io
