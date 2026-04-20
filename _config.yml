@@ -1,10 +1,24 @@
-title:Realtime-CineFollow-Gimbal
-description: IRIS is a high-performance, dual-axis cine-follow gimbal engineered to solve the "solo shooter" problem. By offloading complex tracking and stabilization tasks to an autonomous embedded system, IRIS allows creators to remain the focus of their story without needing a human camera operator.
+# 网站基本信息
+title: "Realtime-CineFollow-Gimbal"
+description: >
+  IRIS is a high-performance, dual-axis cine-follow gimbal engineered to solve the "solo shooter" problem. 
+  By offloading complex tracking and stabilization tasks to an autonomous embedded system, 
+  IRIS allows creators to remain the focus of their story without needing a human camera operator.
+  The project is built on the Raspberry Pi platform, pushing the boundaries of real-time 
+  computer vision and motion control in a mobile form factor.
 
-The project is built on the Raspberry Pi 5 platform, pushing the boundaries of real-time computer vision and motion control in a mobile form factor.
-theme: just-the-docs
+# 主题配置
+remote_theme: just-the-docs/just-the-docs
 
-url: https://just-the-docs.github.io
+# 部署路径配置 (极其重要！决定了 CSS 样式是否正常加载)
+url: "https://Realtime-Gimbal-Team.github.io"
+baseurl: "/CineFollow-Docs"
 
+# 侧边栏链接配置
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  "Code Repository": "https://github.com/Realtime-Gimbal-Team/Realtime-CineFollow-Gimbal"
+  "Team Organization": "https://github.com/Realtime-Gimbal-Team"
+
+# 页面设置
+heading_anchors: true
+search_enabled: true
