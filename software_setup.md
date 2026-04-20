@@ -15,7 +15,8 @@ To compile the code, you need a specific set of tools. Follow the instructions f
 
 ### 1. Essential Tools
 * **Git**: Used for downloading and managing the source code.  
-    [Download Git here](https://git-scm.com/downloads)  
+    [Download Git here](https://git-scm.com/downloads)
+![Git Installation](https://github.com/Realtime-Gimbal-Team/Realtime-CineFollow-Gimbal/blob/main/git-install.png?raw=true)
     *Installation Tip: Just keep clicking "Next" for all default options.*
 * **Visual Studio Code (VS Code)**: The recommended code editor.  
     [Download VS Code here](https://code.visualstudio.com/)
@@ -25,7 +26,8 @@ This is the "engine" that turns C++ code into a file the Pico can understand.
 
 * **Windows Users (Highly Recommended)**:  
     Download and run the **[Raspberry Pi Pico Windows Installer](https://github.com/raspberrypi/pico-setup-windows/releases/latest)**.  
-    This is a "one-click" installer that sets up CMake, Python, and the ARM GCC compiler automatically. It prevents 99% of environment variable errors.
+![Pico Setup](https://github.com/Realtime-Gimbal-Team/Realtime-CineFollow-Gimbal/blob/main/pico.png?raw=true)
+  This is a "one-click" installer that sets up CMake, Python, and the ARM GCC compiler automatically. It prevents 99% of environment variable errors.
 * **Mac Users**:  
     Open your terminal and run:  
     `brew install cmake arm-none-eabi-gcc libnewlib-arm-none-eabi`
