@@ -1,3 +1,9 @@
+---
+layout: default
+title: Realtime-CineFollow-Gimbal
+nav_order: 1
+---
+
 # Realtime-CineFollow-Gimbal
 
 ## 1. Project Introduction
