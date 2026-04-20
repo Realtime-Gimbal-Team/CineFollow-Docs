@@ -39,8 +39,9 @@ To ensure the successful assembly and stable operation of the gimbal, please pre
 ---
 
 ## 2.  Pinout Connection Table
+![Pinout Connection Table 1](https://github.com/Realtime-Gimbal-Team/Realtime-CineFollow-Gimbal/blob/main/assets/images/pinout%20connection%20table%201.png?raw=true)
 
-
+![Pinout Connection Table 2](https://github.com/Realtime-Gimbal-Team/Realtime-CineFollow-Gimbal/blob/main/assets/images/pinout%20connection%20table%202.png?raw=true)
 ---
 
 ## 3.  Power Supply Requirements & Warnings
