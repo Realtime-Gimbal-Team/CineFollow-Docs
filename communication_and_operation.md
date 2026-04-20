@@ -14,6 +14,8 @@ When you power on the system for the first time, the gimbal undergoes a safety i
 2. **Soft-Start Phase**: You will notice the motors slowly "stiffening" up. The voltage is ramped up at a rate of **2V/s** to reach the safety limit (4.5V). 
 3. **Idle State**: Once soft-start is complete, the gimbal will maintain its current position.
 
+![System Diagram](https://github.com/Realtime-Gimbal-Team/Realtime-CineFollow-Gimbal/blob/main/project.png?raw=true)
+
 > **WARNING**
 > 
 > **DO NOT** manually twist or force the gimbal during the first 5 seconds of boot-up. Forcing the motors during the soft-start phase can disrupt the internal alignment and may lead to overcurrent.
