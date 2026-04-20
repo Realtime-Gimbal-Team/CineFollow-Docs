@@ -12,7 +12,7 @@ The **Realtime-CineFollow-Gimbal** is an intelligent dual-axis gimbal system des
 
 By receiving commands from external vision algorithms (such as face detection or object tracking), it utilizes high-performance brushless motors to adjust the camera's orientation in real-time, ensuring the subject remains centered in the frame. No matter how the subject moves, the gimbal provides cinematic, smooth tracking performance.
 
-![Project Demo](https://github.com/Realtime-Gimbal-Team/Realtime-CineFollow-Gimbal/blob/main/iris.png?raw=true)
+![Iris Preview](https://github.com/Realtime-Gimbal-Team/Realtime-CineFollow-Gimbal/blob/main/assets/images/iris.png?raw=true)
 ---
 
 ## 2. Disclaimer & Safety Warnings
