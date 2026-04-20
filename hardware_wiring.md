@@ -86,6 +86,7 @@ This link transmits the high-frequency SPWM signals from the Pico to the motor d
 | **GP12** | IN3 (Motor B) | Yaw | Phase W PWM |
 | **GP15** | EN (Motor B) | Yaw | Motor Enable |
 | **Any GND Pin** | GND (Signal) | Both | Common GND for PWM signals |
+
 ![Pinout Connection Table 1](https://github.com/Realtime-Gimbal-Team/Realtime-CineFollow-Gimbal/blob/main/assets/images/pinout%20connection%20table%201.png?raw=true)
 
 ![Pinout Connection Table 2](https://github.com/Realtime-Gimbal-Team/Realtime-CineFollow-Gimbal/blob/main/assets/images/pinout%20connection%20table%202.png?raw=true)
